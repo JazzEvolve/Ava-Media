@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1120"
+     width="720" height="1120" role="img"
+     aria-label="A A A credential for AVA, barcode AVA-AAA-B3-0117">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#15151d"/>
+      <stop offset="55%" stop-color="#0d0d13"/>
+      <stop offset="100%" stop-color="#17121a"/>
+    </linearGradient>
+    <linearGradient id="foil" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8c87a"/>
+      <stop offset="45%" stop-color="#fdf3d0"/>
+      <stop offset="100%" stop-color="#c49a48"/>
+    </linearGradient>
+    <linearGradient id="hazard" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#b8123a"/>
+      <stop offset="100%" stop-color="#7d0a26"/>
+    </linearGradient>
+    <clipPath id="cardClip"><rect x="24" y="24" width="672" height="1072" rx="34"/></clipPath>
+  </defs>
+
+  <rect width="720" height="1120" fill="#07070a"/>
+  <rect x="24" y="24" width="672" height="1072" rx="34" fill="url(#card)"
+        stroke="url(#foil)" stroke-width="2"/>
+
+  <g clip-path="url(#cardClip)" opacity="0.5">
+    <g stroke="#ffffff" stroke-opacity="0.045" stroke-width="1">
+      <line x1="24" y1="60" x2="696" y2="60"/><line x1="24" y1="74" x2="696" y2="74"/><line x1="24" y1="88" x2="696" y2="88"/><line x1="24" y1="102" x2="696" y2="102"/><line x1="24" y1="116" x2="696" y2="116"/><line x1="24" y1="130" x2="696" y2="130"/><line x1="24" y1="144" x2="696" y2="144"/><line x1="24" y1="158" x2="696" y2="158"/><line x1="24" y1="172" x2="696" y2="172"/><line x1="24" y1="186" x2="696" y2="186"/><line x1="24" y1="200" x2="696" y2="200"/><line x1="24" y1="214" x2="696" y2="214"/><line x1="24" y1="228" x2="696" y2="228"/><line x1="24" y1="242" x2="696" y2="242"/><line x1="24" y1="256" x2="696" y2="256"/><line x1="24" y1="270" x2="696" y2="270"/><line x1="24" y1="284" x2="696" y2="284"/><line x1="24" y1="298" x2="696" y2="298"/><line x1="24" y1="312" x2="696" y2="312"/><line x1="24" y1="326" x2="696" y2="326"/><line x1="24" y1="340" x2="696" y2="340"/><line x1="24" y1="354" x2="696" y2="354"/><line x1="24" y1="368" x2="696" y2="368"/><line x1="24" y1="382" x2="696" y2="382"/><line x1="24" y1="396" x2="696" y2="396"/><line x1="24" y1="410" x2="696" y2="410"/><line x1="24" y1="424" x2="696" y2="424"/><line x1="24" y1="438" x2="696" y2="438"/><line x1="24" y1="452" x2="696" y2="452"/><line x1="24" y1="466" x2="696" y2="466"/><line x1="24" y1="480" x2="696" y2="480"/><line x1="24" y1="494" x2="696" y2="494"/><line x1="24" y1="508" x2="696" y2="508"/><line x1="24" y1="522" x2="696" y2="522"/><line x1="24" y1="536" x2="696" y2="536"/><line x1="24" y1="550" x2="696" y2="550"/><line x1="24" y1="564" x2="696" y2="564"/><line x1="24" y1="578" x2="696" y2="578"/><line x1="24" y1="592" x2="696" y2="592"/><line x1="24" y1="606" x2="696" y2="606"/><line x1="24" y1="620" x2="696" y2="620"/><line x1="24" y1="634" x2="696" y2="634"/><line x1="24" y1="648" x2="696" y2="648"/><line x1="24" y1="662" x2="696" y2="662"/><line x1="24" y1="676" x2="696" y2="676"/><line x1="24" y1="690" x2="696" y2="690"/><line x1="24" y1="704" x2="696" y2="704"/><line x1="24" y1="718" x2="696" y2="718"/><line x1="24" y1="732" x2="696" y2="732"/><line x1="24" y1="746" x2="696" y2="746"/><line x1="24" y1="760" x2="696" y2="760"/><line x1="24" y1="774" x2="696" y2="774"/><line x1="24" y1="788" x2="696" y2="788"/><line x1="24" y1="802" x2="696" y2="802"/><line x1="24" y1="816" x2="696" y2="816"/><line x1="24" y1="830" x2="696" y2="830"/><line x1="24" y1="844" x2="696" y2="844"/><line x1="24" y1="858" x2="696" y2="858"/><line x1="24" y1="872" x2="696" y2="872"/><line x1="24" y1="886" x2="696" y2="886"/><line x1="24" y1="900" x2="696" y2="900"/><line x1="24" y1="914" x2="696" y2="914"/><line x1="24" y1="928" x2="696" y2="928"/><line x1="24" y1="942" x2="696" y2="942"/><line x1="24" y1="956" x2="696" y2="956"/><line x1="24" y1="970" x2="696" y2="970"/><line x1="24" y1="984" x2="696" y2="984"/><line x1="24" y1="998" x2="696" y2="998"/><line x1="24" y1="1012" x2="696" y2="1012"/><line x1="24" y1="1026" x2="696" y2="1026"/><line x1="24" y1="1040" x2="696" y2="1040"/><line x1="24" y1="1054" x2="696" y2="1054"/><line x1="24" y1="1068" x2="696" y2="1068"/><line x1="24" y1="1082" x2="696" y2="1082"/><line x1="24" y1="1096" x2="696" y2="1096"/>
+    </g>
+  </g>
+
+  <!-- lanyard slot -->
+  <rect x="300" y="62" width="120" height="20" rx="10" fill="#07070a"
+        stroke="#3a3a46" stroke-width="1.5"/>
+
+  <!-- issuer -->
+  <text x="360" y="150" text-anchor="middle" fill="url(#foil)"
+        font-family="Georgia, 'DejaVu Serif', serif" font-size="30"
+        letter-spacing="10">AVA MEDIA</text>
+  <text x="360" y="178" text-anchor="middle" fill="#8a8a99"
+        font-family="'Helvetica Neue', Arial, sans-serif" font-size="13"
+        letter-spacing="5">CREDENTIAL — NON-TRANSFERABLE</text>
+
+  <!-- tier -->
+  <rect x="120" y="212" width="480" height="104" rx="8" fill="url(#foil)"/>
+  <text x="360" y="284" text-anchor="middle" fill="#0b0b0f"
+        font-family="Impact, 'DejaVu Sans', sans-serif" font-size="66"
+        letter-spacing="14">A A A</text>
+
+  <!-- restricted band -->
+  <rect x="88" y="336" width="544" height="58" rx="6" fill="url(#hazard)"/>
+  <text x="360" y="374" text-anchor="middle" fill="#fff6f8"
+        font-family="'Helvetica Neue', Arial, sans-serif" font-size="25"
+        font-weight="bold" letter-spacing="7">RESTRICTED ACCESS</text>
+
+  <!-- holder / event block -->
+  <g font-family="'Helvetica Neue', Arial, sans-serif">
+    <text x="88" y="458" fill="#7c7c8c" font-size="13" letter-spacing="4">HOLDER</text>
+    <text x="88" y="496" fill="#f2f2f6" font-size="34">AVA</text>
+
+    <text x="88" y="556" fill="#7c7c8c" font-size="13" letter-spacing="4">ENGAGEMENT</text>
+    <text x="88" y="590" fill="#dcdce4" font-size="23">AVA MEDIA — NIGHT SERIES</text>
+
+    <text x="88" y="648" fill="#7c7c8c" font-size="13" letter-spacing="4">ZONES</text>
+    <text x="88" y="682" fill="#dcdce4" font-size="23">ALL AREAS · BACKSTAGE · GREEN ROOM</text>
+  </g>
+
+  <line x1="88" y1="726" x2="632" y2="726" stroke="#2c2c38" stroke-width="1"/>
+  <text x="88" y="762" fill="#6d6d7d"
+        font-family="'Helvetica Neue', Arial, sans-serif" font-size="13">
+    Escort required beyond marked zones. Present on request.
+  </text>
+
+  <!-- barcode, on its own white quiet-zone panel -->
+  <rect x="64" y="808" width="592" height="230" rx="10" fill="#ffffff"/>
+  <g transform="translate(60.00, 838)">
+    <rect x="0" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="9" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="18" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="33" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="39" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="51" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="66" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="78" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="84" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="99" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="105" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="117" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="132" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="141" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="150" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="165" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="171" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="183" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="198" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="204" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="216" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="231" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="237" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="249" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="264" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="273" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="282" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="297" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="309" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="315" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="330" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="342" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="348" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="363" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="372" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="381" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="396" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="405" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="417" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="429" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="438" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="453" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="462" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="471" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="486" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="495" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="507" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="516" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="528" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="537" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="549" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="561" y="0" width="6" height="150" fill="#0b0b0f"/><rect x="576" y="0" width="9" height="150" fill="#0b0b0f"/><rect x="588" y="0" width="3" height="150" fill="#0b0b0f"/><rect x="594" y="0" width="6" height="150" fill="#0b0b0f"/>
+  </g>
+  <text x="360" y="1014" text-anchor="middle" fill="#0b0b0f"
+        font-family="'Courier New', 'DejaVu Sans Mono', monospace" font-size="27"
+        letter-spacing="4">AVA-AAA-B3-0117</text>
+
+  <text x="360" y="1072" text-anchor="middle" fill="#55556a"
+        font-family="'Helvetica Neue', Arial, sans-serif" font-size="12"
+        letter-spacing="3">PROP / NOT VALID FOR ENTRY</text>
+</svg>
